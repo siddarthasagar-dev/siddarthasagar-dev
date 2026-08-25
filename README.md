@@ -10,7 +10,8 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/siddarthasagar-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Siddartha+Sagar;Software+Engineer+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Siddartha+Sagar;Software+Engineer+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">-->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Siddhartha;AI%2FML+%26+Software+Engineer;Building+Intelligent+Systems;Learning+%7C+Building+%7C+Experimenting;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
@@ -22,7 +23,7 @@
 <a href="https://codeforces.com/profile/siddarthasagar.dev"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 <a href="https://leetcode.com/u/siddartha_91"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=siddarthasagar-dev&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
