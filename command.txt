@@ -1,0 +1,25 @@
+#For regenerating picture.
+  python scripts/dotify.py me.jpg -o assets/portrait \
+--cols 100 --equalize --detail 0.5 --color
+
+#Skill Radar
+  python scripts/radar.py --data assets/skills.json -o assets/radar
+
+#Project
+    python scripts/cards.py --user siddarthasagar-dev --out assets
+
+    export GH_TOKEN="$(gh auth token)"
+
+python scripts/radar.py --github siddarthasagar-dev \
+-o assets/radar-langs \
+--limit 7 \
+--values \
+--curve 0.4 \
+--exclude "shell,makefile,dockerfile,batchfile,procfile"
+
+
+#After each complete change 
+    git add -A
+git commit -m "describe the change"
+git push
+
