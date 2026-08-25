@@ -1,6 +1,7 @@
 #For regenerating picture.
   python scripts/dotify.py me.jpg -o assets/portrait \
---cols 100 --equalize --detail 0.5 --color
+--cols 100 --equalize --detail 0.5 --color \
+--reveal --reveal-time 2.5 --reveal-fade 0.45
 
 #Skill Radar
   python scripts/radar.py --data assets/skills.json -o assets/radar

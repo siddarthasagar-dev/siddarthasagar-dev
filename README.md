@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/siddarthasagar-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Siddhartha;AI%2FML+%26+Software+Engineer;Building+Intelligent+Systems;Learning+%7C+Building+%7C+Experimenting" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Siddhartha+Sagar;AI%2FML+%26+Software+Engineer;Building+Intelligent+Systems;Learn+%7C+Build+%7C+Experiment" alt="typing banner">
 </a>
 
 <br>
@@ -22,7 +22,7 @@
 <a href="https://codeforces.com/profile/siddarthasagar.dev"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 <a href="https://leetcode.com/u/siddartha_91"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=siddarthasagar-dev&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -37,7 +37,7 @@ $ cat about.txt
 Hi, I'm **Siddartha Sagar**. I build things that sit somewhere between machine learning and the web,
 and I solve problems for fun when neither of those is cooperating.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
+- Currently building **[LockerX](https://github.com/siddarthasagar-dev/LockerX)** and **[MajorX](https://github.com/siddarthasagar-dev/MajorX)**
 - Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
 - Learning **React + Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
@@ -48,7 +48,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
 
 </div>
 
@@ -98,9 +98,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/siddarthasagar-dev/siddarthasagar-dev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddarthasagar-dev/siddarthasagar-dev/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/siddarthasagar-dev/siddarthasagar-dev/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
@@ -141,40 +141,40 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/siddarthasagar-dev/MajorX">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-MajorX-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-MajorX-light.svg">
+      <img src="assets/card-MajorX-dark.svg" width="420" alt="MajorX">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/siddarthasagar-dev/Crop-DDA">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Crop-DDA-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Crop-DDA-light.svg">
+      <img src="assets/card-Crop-DDA-dark.svg" width="420" alt="Crop-DDA">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/siddarthasagar-dev/Welding-Defect-Detection">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Welding-Defect-Detection-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Welding-Defect-Detection-light.svg">
+      <img src="assets/card-Welding-Defect-Detection-dark.svg" width="420" alt="Welding-Defect-Detection">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/siddarthasagar-dev/Pothole-Detection">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Pothole-Detection-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Pothole-Detection-light.svg">
+      <img src="assets/card-Pothole-Detection-dark.svg" width="420" alt="Pothole-Detection">
     </picture>
   </a>
 </td>
@@ -185,10 +185,10 @@ and I solve problems for fun when neither of those is cooperating.
 
 | project | live | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[MajorX](https://github.com/siddarthasagar-dev/MajorX)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
+| **[Crop-DDA](https://github.com/siddarthasagar-dev/Crop-DDA)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
+| **[Welding-Defect-Detection](https://github.com/siddarthasagar-dev/Welding-Defect-Detection)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
+| **[Pothole-Detection](https://github.com/siddarthasagar-dev/Pothole-Detection)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
 
 </sub>
 
