@@ -38,7 +38,7 @@ Hi, I'm **Siddartha Sagar**. I build things that sit somewhere between machine l
 and I solve problems for fun when neither of those is cooperating.
 
 - Currently building **[LockerX](https://github.com/siddarthasagar-dev/LockerX)** and **[MajorX](https://github.com/siddarthasagar-dev/MajorX)**
-- Portfolio: **[vercel.app](https://vercel.app)**
+- Portfolio: **[Click Here](https:na-batthuku-alias-portfolio//vercel.app)**
 - Learning **React + Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
@@ -185,10 +185,10 @@ and I solve problems for fun when neither of those is cooperating.
 
 | project | live | stack |
 |---|---|---|
-| **[MajorX](https://github.com/siddarthasagar-dev/MajorX)** | [vercel.app](https://vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Crop-DDA](https://github.com/siddarthasagar-dev/Crop-DDA)** | [vercel.app](https://vercel.app) | `JavaScript` |
-| **[Welding-Defect-Detection](https://github.com/siddarthasagar-dev/Welding-Defect-Detection)** | [vercel.app](https://vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[Pothole-Detection](https://github.com/siddarthasagar-dev/Pothole-Detection)** | [vercel.app](https://vercel.app) | `JavaScript` `Gemini` |
+| **[MajorX](https://github.com/siddarthasagar-dev/MajorX)** | [UnderDeployment](https://vercel.app) | `JavaScript` `GSAP` `Lenis` |
+| **[Crop-DDA](https://github.com/siddarthasagar-dev/Crop-DDA)** | [UnderDeployment](https://vercel.app) | `JavaScript` |
+| **[Welding-Defect-Detection](https://github.com/siddarthasagar-dev/Welding-Defect-Detection)** | [UnderDeployment](https://vercel.app) | `Next.js` `Prisma` `TypeScript` |
+| **[Pothole-Detection](https://github.com/siddarthasagar-dev/Pothole-Detection)** | [UnderDeployment](https://vercel.app) | `JavaScript` `Gemini` |
 
 </sub>
 
